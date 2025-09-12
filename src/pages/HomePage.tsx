@@ -72,12 +72,12 @@ export function HomePage() {
             </div>
             <div>
               <div className="text-3xl font-bold text-purple-400 mb-2">
-                180+
+                50+
               </div>
               <div className="text-gray-300">Markets Analyzed</div>
             </div>
             <div>
-              <div className="text-3xl font-bold text-green-400 mb-2">50M+</div>
+              <div className="text-3xl font-bold text-green-400 mb-2">10M+</div>
               <div className="text-gray-300">Data Points</div>
             </div>
             <div>
